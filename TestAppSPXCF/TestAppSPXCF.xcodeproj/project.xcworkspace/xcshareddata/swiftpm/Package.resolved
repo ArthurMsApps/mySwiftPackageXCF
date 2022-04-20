@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "myswiftpackagexcf",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ArthurMsApps/mySwiftPackageXCF.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "9bc8782f0d30d40d52e32da79dbdb5d72abe52fd"
+      }
+    }
+  ],
+  "version" : 2
+}
